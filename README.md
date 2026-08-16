@@ -18,11 +18,11 @@ I enjoy exploring datasets, finding patterns, solving data-related problems, and
 
 ### 🚀 What I'm Currently Doing
 
-I'm continuously improving my data analytics skills by working on practical projects and learning new techniques in Excel, Power Query, and Power BI.
+I'm continuously improving my data analytics skills by working on practical projects and learning new techniques in Power BI.
 
 ### 📂 Featured Projects
 
-- 🦷 **Dental Dataset — Data Cleaning & Transformation with Power Query**
+- 🦷 **Dental Dataset — Data Cleaning & Transformation with Power Query** (https://github.com/Roshydah-07/Power-Query-Cleaning)
 - 🧠 **Student Mental Health & Academic Pressure Analysis**
 - 🛒 **Superstore Sales Analysis**
 - 📈 **Sales Performance Dashboard — Power BI**
