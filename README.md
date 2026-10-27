@@ -26,7 +26,7 @@ Explore my repositories to see my hands-on work with Kaggle and public datasets,
 ### 📫 How to Reach Me
 - 📧 **Email:** [Email](osenirosheedat2017@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/oseni-rasheedat)
-- 📄 **Resume/Portfolio:** [Link to your Resume/Portfolio if available]
+- 📄 **Resume/Portfolio:** (https://github.com/Roshydah-07/Roshydah-07-portfolio/blob/main/Oseni_Rasheedat_Updated_Data_Analyst_CV.pdf)]
 
 ### 🎯 My Goal
 
